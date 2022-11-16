@@ -1,0 +1,12 @@
+,'despensa/aderezos-y-salsas','despensa/instantaneos-y-sopas',
+                        'despensa/reposteria','despensa/harina-y-complementos','carniceria/vacuno','carniceria/cerdo','carniceria/pavo','carniceria/pollo','bebidas-aguas-y-jugos/aguas-minerales',
+                        'bebidas-aguas-y-jugos/bebidas-gaseosas','bebidas-aguas-y-jugos/jugos','frutas-y-verduras/frutas/fruta','frutas-y-verduras/frutos-secos-y-semillas',
+                        'limpieza/papeles-hogar','limpieza/pisos-y-muebles',
+                        'limpieza/aerosoles-y-desinfectantes','limpieza/accesorios-de-limpieza',
+                        'limpieza/limpieza-de-ropa',
+                        'limpieza/bano-y-cocina'
+
+'desayuno-y-dulces','congelados','mi-bebe','belleza-y-cuidado-personal','vinos-cervezas-y-licores','quesos-y-fiambres','hogar',
+                        'mundo-vegano','comidas-preparadas','pescaderia','panaderia-y-pasteleria','lacteos/huevos',
+                        'lacteos/mantequillas-y-margarinas','/lacteos/postres','despensa/pastas-y-salsas','despensa/arroz-y-legumbres','despensa/aceites-sal-y-condimentos',
+                        'despensa/conservas',

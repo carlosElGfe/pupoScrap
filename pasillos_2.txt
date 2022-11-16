@@ -1,0 +1,577 @@
+Frutas y Verduras/Frutas/Paltas
+Frutas y Verduras/Frutas/Pl\u00E1tanos y Tropicales
+Frutas y Verduras/Frutas/Limones, Naranjas y otros c\u00EDtricos
+Frutas y Verduras/Frutas/Manzanas, peras y membrillos
+Frutas y Verduras/Frutas/Kiwi y Uvas
+Frutas y Verduras/Frutas/Berries
+Frutas y Verduras/Frutas/Duraznos, Nectarines y Damascos
+Frutas y Verduras/Frutas/Sand\u00EDas y Melones
+Frutas y Verduras/Frutas/Fruta Picada
+Frutas y Verduras/Frutas/Fruta de Temporada
+Frutas y Verduras/Frutas/Otras Frutas
+Frutas y Verduras/Verduras/Tomates
+Frutas y Verduras/Verduras/Champi\u00F1ones
+Frutas y Verduras/Verduras/Lechugas y otras hojas
+Frutas y Verduras/Verduras/Acelga y Espinaca
+Frutas y Verduras/Verduras/Ensaladas
+Frutas y Verduras/Verduras/Repollo, Brocoli y Coliflor
+Frutas y Verduras/Verduras/Pimientos, Pepinos y Ajies
+Frutas y Verduras/Verduras/Papas y cebollas
+Frutas y Verduras/Verduras/Zapallos y Zanahorias
+Frutas y Verduras/Verduras/Hierbas y condimentos
+Frutas y Verduras/Verduras/Otras Verduras
+Frutas y Verduras/Frutos Secos/Almendras y mani
+Frutas y Verduras/Frutos Secos/Mix
+Frutas y Verduras/Frutos Secos/Semillas
+Frutas y Verduras/Frutos Secos/Otros Frutos secos
+Frutas y Verduras/Ensaladas y listos para cocinar/Ensaladas
+Frutas y Verduras/Ensaladas y listos para cocinar/Bases para cocinar
+Frutas y Verduras/Ensaladas y listos para cocinar/Fruta Picada
+Frutas y Verduras/Verduras y Frutas Congeladas/Verduras Congeladas
+Frutas y Verduras/Verduras y Frutas Congeladas/Papas Congeladas
+Frutas y Verduras/Verduras y Frutas Congeladas/Frutas Congeladas
+Frutas y Verduras/Verduras y Frutas Congeladas/Pulpas de Fruta y Smoothies
+Congelados/Verduras y Frutas Congeladas/Verduras Congeladas
+Congelados/Verduras y Frutas Congeladas/Papas Congeladas
+Congelados/Verduras y Frutas Congeladas/Frutas Congeladas
+Congelados/Verduras y Frutas Congeladas/Pulpas de Fruta y Smoothies
+Congelados/Hamburguesas y Churrascos/Hamburguesas
+Congelados/Hamburguesas y Churrascos/Churrascos y Lomitos
+Congelados/Hamburguesas y Churrascos/Apanados
+Congelados/Hamburguesas y Churrascos/Vegetarianos
+Congelados/Comidas Congeladas/Platos Preparados
+Congelados/Comidas Congeladas/Pizzas Congeladass
+Congelados/Comidas Congeladas/Cockteler\u00EDa
+Congelados/Helados/Helados Premium
+Congelados/Helados/Helados Cremosos
+Congelados/Helados/Helados Multipack
+Congelados/Helados/Helados de Agua
+Congelados/Helados/Helados Light-Diet
+Congelados/Helados/Postres Congelados
+Congelados/Helados/Hielo
+Carnes y Pescados/Vacuno/Carnes para Parrilla
+Carnes y Pescados/Vacuno/Carnes Premium
+Carnes y Pescados/Vacuno/Carnes Americanas
+Carnes y Pescados/Vacuno/Carnes para Olla
+Carnes y Pescados/Vacuno/Carnes para Sart\u00E9n
+Carnes y Pescados/Vacuno/Carnes Molidas
+Carnes y Pescados/Vacuno/Carnes para Horno
+Carnes y Pescados/Pollo/Pechuga y Filetitos de Pollo
+Carnes y Pescados/Pollo/Trutro de Pollo
+Carnes y Pescados/Pollo/Pollo sin Marinar
+Carnes y Pescados/Pollo/Pollo Entero
+Carnes y Pescados/Pollo/Parrilla y Saborizados
+Carnes y Pescados/Pollo/Subproductos y Otros
+Carnes y Pescados/Cerdo/Chuletas
+Carnes y Pescados/Cerdo/Cortes Parrilleros
+Carnes y Pescados/Cerdo/Costillar y Costillitas
+Carnes y Pescados/Cerdo/Lomo
+Carnes y Pescados/Cerdo/Pulpa
+Carnes y Pescados/Pavo/Pechuga y Filetes
+Carnes y Pescados/Pavo/Molida y Hamburguesas
+Carnes y Pescados/Pavo/Listo para Cocinar
+Carnes y Pescados/Cordero/Chuletas
+Carnes y Pescados/Pescados y Mariscos/Camar\u00F3n
+Carnes y Pescados/Pescados y Mariscos/Salm\u00F3n
+Carnes y Pescados/Pescados y Mariscos/At\u00FAn
+Carnes y Pescados/Pescados y Mariscos/Mariscos
+Carnes y Pescados/Pescados y Mariscos/Apanados
+Carnes y Pescados/Pescados y Mariscos/Otros Pescados
+Frescos y L\u00E1cteos/Fiambres y Embutidos/Jam\u00F3n de Pavo y Pollo
+Frescos y L\u00E1cteos/Fiambres y Embutidos/Jam\u00F3n de Cerdo
+Frescos y L\u00E1cteos/Fiambres y Embutidos/Mortadela y Otros
+Frescos y L\u00E1cteos/Fiambres y Embutidos/Jam\u00F3n Serrano y Otros
+Frescos y L\u00E1cteos/Fiambres y Embutidos/Salame y Tocino
+Frescos y L\u00E1cteos/Fiambres y Embutidos/Pat\u00E9s
+Frescos y L\u00E1cteos/Fiambres y Embutidos/Salchichas
+Frescos y L\u00E1cteos/Fiambres y Embutidos/Parrilleros
+Frescos y L\u00E1cteos/Quesos/Chanco - Mantecoso
+Frescos y L\u00E1cteos/Quesos/Gauda
+Frescos y L\u00E1cteos/Quesos/Untable - Fundido
+Frescos y L\u00E1cteos/Quesos/Queso Fresco
+Frescos y L\u00E1cteos/Quesos/Granulados y Rallados
+Frescos y L\u00E1cteos/Quesos/Especialidades y Tablas
+Frescos y L\u00E1cteos/Quesos/Snack
+Frescos y L\u00E1cteos/Quesos/Cabra oveja
+Frescos y L\u00E1cteos/Quesos/Veganos
+Frescos y L\u00E1cteos/Quesos/Cheddar
+Frescos y L\u00E1cteos/Leche/Blanca
+Frescos y L\u00E1cteos/Leche/En Polvo
+Frescos y L\u00E1cteos/Leche/Leche sin Lactosa
+Frescos y L\u00E1cteos/Leche/Individuales
+Frescos y L\u00E1cteos/Leche/Saborizadas
+Frescos y L\u00E1cteos/Leche/Saborizantes
+Frescos y L\u00E1cteos/Leche/Leche Cultivada
+Frescos y L\u00E1cteos/Cremas/Cremas Light
+Frescos y L\u00E1cteos/Cremas/Crema Sin Lactosa
+Frescos y L\u00E1cteos/Cremas/Crema Tradicional
+Frescos y L\u00E1cteos/Cremas/Cremas Refrigeradas
+Frescos y L\u00E1cteos/Cremas/Crema Chantilly
+Frescos y L\u00E1cteos/Bebidas Vegetales/Almendra
+Frescos y L\u00E1cteos/Bebidas Vegetales/Otras Bebidas Vegetales
+Frescos y L\u00E1cteos/Bebidas Vegetales/Soya
+Frescos y L\u00E1cteos/Yoghurt/Batidos
+Frescos y L\u00E1cteos/Yoghurt/Trozos
+Frescos y L\u00E1cteos/Yoghurt/Infantiles
+Frescos y L\u00E1cteos/Yoghurt/Proteina
+Frescos y L\u00E1cteos/Yoghurt/Sin Lactosa
+Frescos y L\u00E1cteos/Yoghurt/Probi\u00F3ticos
+Frescos y L\u00E1cteos/Yoghurt/Formato Familiar
+Frescos y L\u00E1cteos/Yoghurt/Salud y Bienestar
+Frescos y L\u00E1cteos/Yoghurt/Base Vegetal
+Frescos y L\u00E1cteos/Yoghurt/Natural
+Frescos y L\u00E1cteos/Postres Refrigerados/Flan
+Frescos y L\u00E1cteos/Postres Refrigerados/Jalea
+Frescos y L\u00E1cteos/Postres Refrigerados/Leche Asada y Arroz con leche
+Frescos y L\u00E1cteos/Postres Refrigerados/S\u00E9mola
+Frescos y L\u00E1cteos/Postres Refrigerados/Compotas
+Frescos y L\u00E1cteos/Postres Refrigerados/Postres Cremosos
+Frescos y L\u00E1cteos/Postres Refrigerados/Postres Tipo Mousse
+Frescos y L\u00E1cteos/Huevos y Mantequillas/Huevos
+Frescos y L\u00E1cteos/Huevos y Mantequillas/Mantequillas
+Frescos y L\u00E1cteos/Huevos y Mantequillas/Margarinas
+Frescos y L\u00E1cteos/Huevos y Mantequillas/Mantecas y Levaduras
+Frescos y L\u00E1cteos/Platos Preparados/Cocktail
+Frescos y L\u00E1cteos/Platos Preparados/Familiar
+Frescos y L\u00E1cteos/Platos Preparados/Individual
+Frescos y L\u00E1cteos/Platos Preparados/Aceitunas y Encurtidos
+Frescos y L\u00E1cteos/Masas Refrigeradas/Pascualina y Quiche
+Frescos y L\u00E1cteos/Masas Refrigeradas/Pastas Frescas
+Frescos y L\u00E1cteos/Masas Refrigeradas/Salsas
+Frescos y L\u00E1cteos/Masas Refrigeradas/Tapa Empanada
+Platos Preparados/C\u00F3ctel/Empanadas y Quiches
+Platos Preparados/C\u00F3ctel/Pastas Untables y Hummus
+Platos Preparados/C\u00F3ctel/Pizzas y Pizzetas
+Platos Preparados/C\u00F3ctel/Otros
+Platos Preparados/Para Terminar en Casa/Masas Refrigeradas
+Platos Preparados/Para Terminar en Casa/Pastas Refrigeradas
+Platos Preparados/Para Terminar en Casa/Verduras Congeladas
+Platos Preparados/Platos Listos Familiar/Lasa\u00F1as
+Platos Preparados/Platos Listos Familiar/Pizzas
+Platos Preparados/Platos Listos Familiar/Prote\u00EDnas
+Platos Preparados/Platos Listos Familiar/Quiches y Tortillas
+Platos Preparados/Platos Listos Individuales/Empanadas y Sandwich
+Platos Preparados/Platos Listos Individuales/Ensaladas y Sopas
+Platos Preparados/Platos Listos Individuales/Lasa\u00F1as y Pastas
+Platos Preparados/Platos Listos Individuales/Platos de Fondo
+Platos Preparados/Postres/Familiares
+Platos Preparados/Postres/Individuales
+Panader\u00EDa y Pasteleria/Panader\u00EDa/Pan Tradicional
+Panader\u00EDa y Pasteleria/Panader\u00EDa/Pan de Molde Blanco
+Panader\u00EDa y Pasteleria/Panader\u00EDa/Pan de Molde Integral
+Panader\u00EDa y Pasteleria/Panader\u00EDa/Pan Pita
+Panader\u00EDa y Pasteleria/Panader\u00EDa/Pan Funcional, Sin Gluten
+Panader\u00EDa y Pasteleria/Panader\u00EDa/Pan Hot Dog y Hamburguesa
+Panader\u00EDa y Pasteleria/Panader\u00EDa/Pan para Hornear en Casa
+Panader\u00EDa y Pasteleria/Panader\u00EDa/Masas para Pizzas
+Panader\u00EDa y Pasteleria/Panader\u00EDa/Tortillas
+Panader\u00EDa y Pasteleria/Panader\u00EDa/Cockteler\u00EDa
+Panader\u00EDa y Pasteleria/Panader\u00EDa/Pan Rallado
+Panader\u00EDa y Pasteleria/Pasteler\u00EDa/Tortas y Pasteles
+Panader\u00EDa y Pasteleria/Pasteler\u00EDa/Tartas y Kuchen
+Panader\u00EDa y Pasteleria/Pasteler\u00EDa/Queques y Brazos de Reina
+Panader\u00EDa y Pasteleria/Pasteler\u00EDa/Magdalenas y Bizcochos
+Panader\u00EDa y Pasteleria/Pasteler\u00EDa/Alfajores
+Panader\u00EDa y Pasteleria/Pasteler\u00EDa/Galletas y Galletones
+Panader\u00EDa y Pasteleria/Pasteler\u00EDa/Masas Dulces y Hojaldrados
+Panader\u00EDa y Pasteleria/Pasteler\u00EDa/Dulces Artesanales
+Panader\u00EDa y Pasteleria/Pasteler\u00EDa/Pan de Pascua
+Panader\u00EDa y Pasteleria/Pasteler\u00EDa/Bases para Tortas
+Panader\u00EDa y Pasteleria/Reposter\u00EDa/Leche Condensada, Evaporada
+Panader\u00EDa y Pasteleria/Reposter\u00EDa/Coberturas
+Panader\u00EDa y Pasteleria/Reposter\u00EDa/Cremas
+Panader\u00EDa y Pasteleria/Reposter\u00EDa/Decoraci\u00F3n
+Panader\u00EDa y Pasteleria/Reposter\u00EDa/Esencias
+Panader\u00EDa y Pasteleria/Reposter\u00EDa/Feculas y Polvos
+Panader\u00EDa y Pasteleria/Reposter\u00EDa/Mezclas, Premezclas
+Panader\u00EDa y Pasteleria/Reposter\u00EDa/Az\u00FAcar
+Panader\u00EDa y Pasteleria/Reposter\u00EDa/Endulzantes
+Desayuno y Dulces/Caf\u00E9, T\u00E9 y Hierbas/Caf\u00E9 Instant\u00E1neo
+Desayuno y Dulces/Caf\u00E9, T\u00E9 y Hierbas/Caf\u00E9 en Grano y Molido
+Desayuno y Dulces/Caf\u00E9, T\u00E9 y Hierbas/C\u00E1psulas de Caf\u00E9
+Desayuno y Dulces/Caf\u00E9, T\u00E9 y Hierbas/Caf\u00E9 Descafeinado
+Desayuno y Dulces/Caf\u00E9, T\u00E9 y Hierbas/Caf\u00E9 Saborizados y Cremas
+Desayuno y Dulces/Caf\u00E9, T\u00E9 y Hierbas/T\u00E9 Ceylan
+Desayuno y Dulces/Caf\u00E9, T\u00E9 y Hierbas/T\u00E9 Especiales y Sabores
+Desayuno y Dulces/Caf\u00E9, T\u00E9 y Hierbas/Hierbas y Yerba Mate
+Desayuno y Dulces/Cereales/Barras de Cereal
+Desayuno y Dulces/Cereales/Cereales
+Desayuno y Dulces/Cereales/Cereal Trigo Inflado
+Desayuno y Dulces/Cereales/Colaciones Escolares
+Desayuno y Dulces/Cereales/Avenas
+Desayuno y Dulces/Galletas y Colaciones Dulces/Rellenas, Ba\u00F1adas
+Desayuno y Dulces/Galletas y Colaciones Dulces/Chips Chocolate
+Desayuno y Dulces/Galletas y Colaciones Dulces/Cl\u00E1sicas, Oblea, Champa\u00F1a
+Desayuno y Dulces/Galletas y Colaciones Dulces/Saludables
+Desayuno y Dulces/Galletas y Colaciones Dulces/Galletas Colaci\u00F3n
+Desayuno y Dulces/Galletas y Colaciones Dulces/Galletones y Alfajores
+Desayuno y Dulces/Galletas y Colaciones Dulces/Quequitos y Bizcochos
+Desayuno y Dulces/Dulces, Mermeladas y Manjar/Az\u00FAcar
+Desayuno y Dulces/Dulces, Mermeladas y Manjar/Endulzante
+Desayuno y Dulces/Dulces, Mermeladas y Manjar/Manjar y Dulce de Leche
+Desayuno y Dulces/Dulces, Mermeladas y Manjar/Mermeladas
+Desayuno y Dulces/Dulces, Mermeladas y Manjar/Miel y Dulces
+Desayuno y Dulces/Chocolates y Candy/Chocolates
+Desayuno y Dulces/Chocolates y Candy/Caramelos Duros
+Desayuno y Dulces/Chocolates y Candy/Calugas Y Masticables
+Desayuno y Dulces/Chocolates y Candy/Gomitas
+Desayuno y Dulces/Chocolates y Candy/MarshMallows
+Desayuno y Dulces/Chocolates y Candy/Chicles, Mentitas
+Desayuno y Dulces/Chocolates y Candy/Artesanales
+Desayuno y Dulces/Postres para Preparar/Gelatina en Polvo
+Desayuno y Dulces/Postres para Preparar/Flan y Bud\u00EDn
+Bebidas y Licores/Deme 3 por favor/Elige 3 vinos por 6990
+Bebidas y Licores/Deme 3 por favor/Elige 3 vinos por 9990
+Bebidas y Licores/Deme 3 por favor/Elige 3 vinos por 12990
+Bebidas y Licores/Deme 3 por favor/Elige 3 cervezas por 2990
+Bebidas y Licores/Vinos y Espumantes/Vinos Tintos
+Bebidas y Licores/Vinos y Espumantes/Vinos Blancos
+Bebidas y Licores/Vinos y Espumantes/Espumantes y Sidra
+Bebidas y Licores/Vinos y Espumantes/Vinos Ros\u00E9 Late Harvest
+Bebidas y Licores/Vinos y Espumantes/Vinos Premium
+Bebidas y Licores/Cervezas/Cervezas Premium
+Bebidas y Licores/Cervezas/Cervezas Tradicionales
+Bebidas y Licores/Cervezas/Cervezas Artesanales
+Bebidas y Licores/Cervezas/Cervezas sin alcohol
+Bebidas y Licores/Destilados/Pisco
+Bebidas y Licores/Destilados/Vodka
+Bebidas y Licores/Destilados/Whisky
+Bebidas y Licores/Destilados/Gin
+Bebidas y Licores/Destilados/Ron
+Bebidas y Licores/Destilados/Tequila
+Bebidas y Licores/C\u00F3ctel y Licores/C\u00F3ctel Sour y Cremas
+Bebidas y Licores/C\u00F3ctel y Licores/Licores
+Bebidas y Licores/C\u00F3ctel y Licores/Para Mezclar
+Bebidas y Licores/Bebidas/Bebidas Regulares
+Bebidas y Licores/Bebidas/Bebidas Light y Zero
+Bebidas y Licores/Bebidas/Bebidas Individuales
+Bebidas y Licores/Bebidas/Energ\u00E9ticas
+Bebidas y Licores/Bebidas/Bebidas Isot\u00F3nicas
+Bebidas y Licores/Bebidas/Mixers
+Bebidas y Licores/Jugos/Jugos L\u00EDquidos
+Bebidas y Licores/Jugos/Jugos Colaci\u00F3n
+Bebidas y Licores/Jugos/Jugos en Polvo
+Bebidas y Licores/Jugos/T\u00E9 Helado
+Bebidas y Licores/Jugos/Jugos Naturales y Refrigerados
+Bebidas y Licores/Aguas/Aguas Minerales y Purificadas
+Bebidas y Licores/Aguas/Aguas Individuales
+Bebidas y Licores/Aguas/Aguas Saborizadas
+Bebidas y Licores/Aguas/Bidones
+Bebidas y Licores/Hielo/1 Kilo o menos
+Bebidas y Licores/Hielo/M\u00E1s de 1 Kilo
+Despensa/Pastas y Salsas/Pastas Cortas
+Despensa/Pastas y Salsas/Pastas Largas
+Despensa/Pastas y Salsas/Lasa\u00F1as y Rellenos
+Despensa/Pastas y Salsas/Pastas Instant\u00E1neas
+Despensa/Pastas y Salsas/Pastas Integrales
+Despensa/Pastas y Salsas/Pastas sin gluten
+Despensa/Pastas y Salsas/Salsa para pastas
+Despensa/Harinas y Polvos/Harinas Blancas
+Despensa/Harinas y Polvos/Harinas Integrales
+Despensa/Harinas y Polvos/Otras Harinas
+Despensa/Arroz y Legumbres/Arroz
+Despensa/Arroz y Legumbres/Arroz Integral
+Despensa/Arroz y Legumbres/Arroz Preparado
+Despensa/Arroz y Legumbres/Legumbres
+Despensa/Arroz y Legumbres/Semillas y Cereales
+Despensa/Salsas/Mayonesa
+Despensa/Salsas/Ketchup
+Despensa/Salsas/Mostaza
+Despensa/Salsas/Aj\u00ED
+Despensa/Salsas/Otras Salsa
+Despensa/Aceites y Aderezos/Aceites
+Despensa/Aceites y Aderezos/Aceites de Oliva
+Despensa/Aceites y Aderezos/Sal
+Despensa/Aceites y Aderezos/Vinagres y Suced\u00E1neos
+Despensa/Aceites y Aderezos/Condimentos
+Despensa/C\u00F3ctel y Snack/Papas Fritas
+Despensa/C\u00F3ctel y Snack/Otros Snacks
+Despensa/C\u00F3ctel y Snack/Man\u00ED
+Despensa/C\u00F3ctel y Snack/Otras Semillas
+Despensa/C\u00F3ctel y Snack/Pasas y Frutas Secas
+Despensa/C\u00F3ctel y Snack/Galletas Cocktail y Untables
+Despensa/C\u00F3ctel y Snack/Aceitunas y Pickles
+Despensa/C\u00F3ctel y Snack/Colaciones Snacks
+Despensa/Conservas/Pescados en Conserva
+Despensa/Conservas/Mariscos en Conserva
+Despensa/Conservas/Verduras en Conserva
+Despensa/Conservas/Frutas en Conserva
+Despensa/Alimentos Instant\u00E1neos/Pur\u00E9
+Despensa/Alimentos Instant\u00E1neos/Rinc\u00F3n del Mundo
+Despensa/Alimentos Instant\u00E1neos/Sopas y Cremas
+Despensa/Alimentos Instant\u00E1neos/Comida Instant\u00E1nea
+Despensa/Alimentos Instant\u00E1neos/Bases y Caldos
+Despensa/Comida \u00E9tnica/Cocina \u00E1rabe
+Despensa/Comida \u00E9tnica/Cocina India
+Despensa/Comida \u00E9tnica/Cocina Mexicana
+Despensa/Comida \u00E9tnica/Cocina Oriental
+Despensa/Comida \u00E9tnica/Comida Peruana
+Despensa/Comida \u00E9tnica/Comida Thai
+Despensa/Comida \u00E9tnica/Cocina China y Japonesa
+Colaciones/Fruta Colaci\u00F3n/Compotas
+Colaciones/Fruta Colaci\u00F3n/Fruta Picada
+Colaciones/Barritas y cereales/Barritas Proteina Y Veganas
+Colaciones/Barritas y cereales/Barritas Cereal
+Colaciones/Barritas y cereales/Cereales Colaci\u00F3n
+Colaciones/Galletas y Snack colaci\u00F3n/Galletas Colaci\u00F3n
+Colaciones/Galletas y Snack colaci\u00F3n/Alfajores
+Colaciones/Galletas y Snack colaci\u00F3n/Bizcochos
+Colaciones/Galletas y Snack colaci\u00F3n/Galletones
+Colaciones/Jugos Colaci\u00F3n/Jugos Light Y Aguas Saborizadas
+Colaciones/Jugos Colaci\u00F3n/Jugos Regulares
+Colaciones/Leches Colaci\u00F3n/Saborizadas
+Colaciones/Leches Colaci\u00F3n/Sin Lactosa, Cegetales, Prote\u00EDnas
+Colaciones/Comb\u00EDnalos Como Quieras/Elige 2 Chocolates Doypack Rocklets x 2290
+Colaciones/Comb\u00EDnalos Como Quieras/Elige 2 Chocolates en Barra Rocklets x 2000
+Colaciones/Yoghurt/Batidos
+Colaciones/Yoghurt/Trozos
+Colaciones/Yoghurt/Infantiles
+Colaciones/Yoghurt/Proteina
+Colaciones/Yoghurt/Sin Lactosa
+Colaciones/Yoghurt/Probi\u00F3ticos
+Colaciones/Yoghurt/Formato Familiar
+Colaciones/Yoghurt/Salud y Bienestar
+Colaciones/Yoghurt/Base Vegetal
+Colaciones/Yoghurt/Natural
+Congelados/Verduras y Frutas Congeladas/Verduras Congeladas
+Congelados/Verduras y Frutas Congeladas/Verduras Congeladas
+Congelados/Verduras y Frutas Congeladas/Papas Congeladas
+Congelados/Verduras y Frutas Congeladas/Frutas Congeladas
+Congelados/Verduras y Frutas Congeladas/Pulpas de Fruta y Smoothies
+Mascotas/Perro/Accesorios Perro
+Mascotas/Perro/Alimento Adulto
+Mascotas/Perro/Alimento Cachorro
+Mascotas/Perro/Alimento Razas Peque\u00F1as
+Mascotas/Perro/Alimento Senior
+Mascotas/Perro/Higiene Perro
+Mascotas/Perro/Juguetes Perro
+Mascotas/Gato/Accesorios Gato
+Mascotas/Gato/Alimento Gatito
+Mascotas/Gato/Alimento Gato
+Mascotas/Gato/Higiene Gato
+Mascotas/Otras Mascotas/Accesorios Otras Mascotas
+Mascotas/Otras Mascotas/Alimento Conejo
+Mascotas/Otras Mascotas/Alimento Pajaros
+Mascotas/Otras Mascotas/Alimento Roedor
+Congelados/Verduras y Frutas Congeladas/Verduras Congeladas
+Congelados/Verduras y Frutas Congeladas/Verduras Congeladas
+Congelados/Verduras y Frutas Congeladas/Papas Congeladas
+Congelados/Verduras y Frutas Congeladas/Frutas Congeladas
+Congelados/Verduras y Frutas Congeladas/Pulpas de Fruta y Smoothies
+Mundo Beb\u00E9 y Jugueter\u00EDa/Alimentaci\u00F3n y Lactancia/Leches y F\u00F3rmulas
+Mundo Beb\u00E9 y Jugueter\u00EDa/Alimentaci\u00F3n y Lactancia/Colados, picados y aceites
+Mundo Beb\u00E9 y Jugueter\u00EDa/Alimentaci\u00F3n y Lactancia/Cereales, jugos y snacks
+Mundo Beb\u00E9 y Jugueter\u00EDa/Alimentaci\u00F3n y Lactancia/Accesorios para comer
+Mundo Beb\u00E9 y Jugueter\u00EDa/Alimentaci\u00F3n y Lactancia/Mamaderas, Tetinas y Vasos
+Mundo Beb\u00E9 y Jugueter\u00EDa/Alimentaci\u00F3n y Lactancia/Chupetes y accesorios
+Mundo Beb\u00E9 y Jugueter\u00EDa/Alimentaci\u00F3n y Lactancia/Sillas para comer
+Mundo Beb\u00E9 y Jugueter\u00EDa/Perfumer\u00EDa e Higiene/Shampoo y B\u00E1lsamo
+Mundo Beb\u00E9 y Jugueter\u00EDa/Perfumer\u00EDa e Higiene/Jab\u00F3n
+Mundo Beb\u00E9 y Jugueter\u00EDa/Perfumer\u00EDa e Higiene/Cremas y Aceites
+Mundo Beb\u00E9 y Jugueter\u00EDa/Perfumer\u00EDa e Higiene/Colonias y lociones
+Mundo Beb\u00E9 y Jugueter\u00EDa/Perfumer\u00EDa e Higiene/Talcos y pomadas
+Mundo Beb\u00E9 y Jugueter\u00EDa/Perfumer\u00EDa e Higiene/Accesorios lactancia y cuidado
+Mundo Beb\u00E9 y Jugueter\u00EDa/Perfumer\u00EDa e Higiene/Accesorios ba\u00F1o
+Mundo Beb\u00E9 y Jugueter\u00EDa/Pa\u00F1ales y Muda/Babysec
+Mundo Beb\u00E9 y Jugueter\u00EDa/Pa\u00F1ales y Muda/Huggies
+Mundo Beb\u00E9 y Jugueter\u00EDa/Pa\u00F1ales y Muda/Pampers
+Mundo Beb\u00E9 y Jugueter\u00EDa/Pa\u00F1ales y Muda/Parent´s Choice
+Mundo Beb\u00E9 y Jugueter\u00EDa/Pa\u00F1ales y Muda/Toallitas H\u00FAmedas
+Mundo Beb\u00E9 y Jugueter\u00EDa/Ropa de beb\u00E9/Textil beb\u00E9
+Mundo Beb\u00E9 y Jugueter\u00EDa/Ropa de beb\u00E9/Accesorios Beb\u00E9
+Mundo Beb\u00E9 y Jugueter\u00EDa/Ropa de beb\u00E9/Vestuario Beb\u00E9
+Mundo Beb\u00E9 y Jugueter\u00EDa/Juguetes y Actividades/Andadores, correpasillos y triciclos
+Mundo Beb\u00E9 y Jugueter\u00EDa/Juguetes y Actividades/Educacionales
+Mundo Beb\u00E9 y Jugueter\u00EDa/Juguetes y Actividades/Mordedores y sonajeros
+Mundo Beb\u00E9 y Jugueter\u00EDa/Juguetes y Actividades/Sillas Nido y Gimnasios
+Mundo Beb\u00E9 y Jugueter\u00EDa/Juguetes y Actividades/Encajes y Bloques
+Mundo Beb\u00E9 y Jugueter\u00EDa/Juguetes y Actividades/Juguetes de Madera
+Mundo Beb\u00E9 y Jugueter\u00EDa/Juguetes y Actividades/Juguetes ba\u00F1o
+Mundo Beb\u00E9 y Jugueter\u00EDa/Viajes y Seguridad del beb\u00E9/Coches y paseos
+Mundo Beb\u00E9 y Jugueter\u00EDa/Viajes y Seguridad del beb\u00E9/Sillas de auto y alzadores
+Mundo Beb\u00E9 y Jugueter\u00EDa/Viajes y Seguridad del beb\u00E9/Seguridad Hogar
+Congelados/Verduras y Frutas Congeladas/Verduras Congeladas
+Congelados/Verduras y Frutas Congeladas/Verduras Congeladas
+Congelados/Verduras y Frutas Congeladas/Papas Congeladas
+Congelados/Verduras y Frutas Congeladas/Frutas Congeladas
+Congelados/Verduras y Frutas Congeladas/Pulpas de Fruta y Smoothies
+Limpieza - Aseo/Detergentes/Detergente L\u00EDquido
+Limpieza - Aseo/Detergentes/Detergente en Polvo
+Limpieza - Aseo/Detergentes/Detergente en C\u00E1psula
+Limpieza - Aseo/Detergentes/Suavizante
+Limpieza - Aseo/Detergentes/Tratamiento Ropa
+Limpieza - Aseo/Detergentes/Cloro Ropa
+Limpieza - Aseo/Detergentes/Jabon para Ropa
+Limpieza - Aseo/Ba\u00F1o y Cocina/Lavaloza y Lavavajilla
+Limpieza - Aseo/Ba\u00F1o y Cocina/Limpiador Cocina
+Limpieza - Aseo/Ba\u00F1o y Cocina/Accesorios Cocina
+Limpieza - Aseo/Ba\u00F1o y Cocina/Limpia Vidrios
+Limpieza - Aseo/Ba\u00F1o y Cocina/Limpiador Ba\u00F1o
+Limpieza - Aseo/Ba\u00F1o y Cocina/Limpiador Multiuso
+Limpieza - Aseo/Ba\u00F1o y Cocina/Accesorios Ba\u00F1o
+Limpieza - Aseo/Pisos y Muebles/Limpiador Pisos
+Limpieza - Aseo/Pisos y Muebles/Piso Flotante
+Limpieza - Aseo/Pisos y Muebles/Cera y Virutilla
+Limpieza - Aseo/Pisos y Muebles/Lustramuebles
+Limpieza - Aseo/Papeles/Papel Higi\u00E9nico
+Limpieza - Aseo/Papeles/Toalla Papel
+Limpieza - Aseo/Papeles/Servilletas
+Limpieza - Aseo/Papeles/Pa\u00F1uelos
+Limpieza - Aseo/Papeles/Papeles para Cocinar
+Limpieza - Aseo/Desinfecci\u00F3n/Toalla H\u00FAmedas Desinfectantes
+Limpieza - Aseo/Desinfecci\u00F3n/Aerosoles Desinfectantes
+Limpieza - Aseo/Desinfecci\u00F3n/Limpiadores Hogar
+Limpieza - Aseo/Desinfecci\u00F3n/Limpiadores Piso
+Limpieza - Aseo/Desinfecci\u00F3n/Cloro
+Limpieza - Aseo/Desinfecci\u00F3n/Alcohol Gel y Mascarillas
+Limpieza - Aseo/Accesorios Aseo/Bolsa de Basura
+Limpieza - Aseo/Accesorios Aseo/Bolsas Multiuso
+Limpieza - Aseo/Accesorios Aseo/Pa\u00F1os y Mopas
+Limpieza - Aseo/Accesorios Aseo/Esponjas y Guantes
+Limpieza - Aseo/Accesorios Aseo/Escobillones y Palas
+Limpieza - Aseo/Accesorios Aseo/F\u00F3sforos
+Limpieza - Aseo/Accesorios Aseo/Cuidado Calzado
+Limpieza - Aseo/Ambientadores/Ambientador Aerosol
+Limpieza - Aseo/Ambientadores/Ambientadores Autom\u00E1ticos
+Limpieza - Aseo/Ambientadores/Ambientadores El\u00E9ctricos
+Limpieza - Aseo/Ambientadores/Ambientadores Gel
+Limpieza - Aseo/Ambientadores/Ambientadores Toque
+Limpieza - Aseo/Ambientadores/Desinfectantes Aerosol
+Limpieza - Aseo/Insecticidas y Control de Plagas/El\u00E9ctricos y L\u00EDquidos
+Limpieza - Aseo/Insecticidas y Control de Plagas/Insecticida Aerosol
+Limpieza - Aseo/Insecticidas y Control de Plagas/Polvo y Tabletas
+Limpieza - Aseo/Insecticidas y Control de Plagas/Repelentes
+Congelados/Verduras y Frutas Congeladas/Verduras Congeladas
+Congelados/Verduras y Frutas Congeladas/Verduras Congeladas
+Congelados/Verduras y Frutas Congeladas/Papas Congeladas
+Congelados/Verduras y Frutas Congeladas/Frutas Congeladas
+Congelados/Verduras y Frutas Congeladas/Pulpas de Fruta y Smoothies
+Perfumer\u00EDa - Salud/Cuidado Facial - Corporal/Cremas Faciales
+Perfumer\u00EDa - Salud/Cuidado Facial - Corporal/Cremas de Manos
+Perfumer\u00EDa - Salud/Cuidado Facial - Corporal/Limpieza y Desmaquillantes
+Perfumer\u00EDa - Salud/Cuidado Facial - Corporal/Cremas Corporales
+Perfumer\u00EDa - Salud/Cuidado Facial - Corporal/Protecci\u00F3n Solar
+Perfumer\u00EDa - Salud/Cuidado Capilar/Shampoo
+Perfumer\u00EDa - Salud/Cuidado Capilar/Acondicionadores
+Perfumer\u00EDa - Salud/Cuidado Capilar/Tratamiento Especifico
+Perfumer\u00EDa - Salud/Cuidado Capilar/Cremas de Peinar
+Perfumer\u00EDa - Salud/Cuidado Personal/Jab\u00F3n L\u00EDquido
+Perfumer\u00EDa - Salud/Cuidado Personal/Jab\u00F3n en Barra
+Perfumer\u00EDa - Salud/Cuidado Personal/Gel de Ducha
+Perfumer\u00EDa - Salud/Cuidado Personal/Cuidado de Pies
+Perfumer\u00EDa - Salud/Cuidado Personal/Set de Spa
+Perfumer\u00EDa - Salud/Cuidado Personal/Set para ni\u00F1os
+Perfumer\u00EDa - Salud/Cuidado Bucal/Crema Dental Adulto
+Perfumer\u00EDa - Salud/Cuidado Bucal/Crema Dental Infantil
+Perfumer\u00EDa - Salud/Cuidado Bucal/Cepillos Dentales Adulto
+Perfumer\u00EDa - Salud/Cuidado Bucal/Cepillos Dentales Infantil
+Perfumer\u00EDa - Salud/Cuidado Bucal/Enjuague Bucal
+Perfumer\u00EDa - Salud/Cuidado Bucal/Seda Dental
+Perfumer\u00EDa - Salud/Cuidado Hombre/Desodorantes
+Perfumer\u00EDa - Salud/Cuidado Hombre/Afeitado - M\u00E1quinas
+Perfumer\u00EDa - Salud/Cuidado Hombre/Afeitado - Espumas y Gel
+Perfumer\u00EDa - Salud/Cuidado Hombre/Perfumes y Colonias
+Perfumer\u00EDa - Salud/Cuidado Mujer/Desodorantes
+Perfumer\u00EDa - Salud/Cuidado Mujer/Protecci\u00F3n Femenina
+Perfumer\u00EDa - Salud/Cuidado Mujer/Perfumes y Colonias
+Perfumer\u00EDa - Salud/Cuidado Mujer/Depilaci\u00F3n
+Perfumer\u00EDa - Salud/Cuidado Adulto Mayor/Pa\u00F1ales y Protector de Cama
+Perfumer\u00EDa - Salud/Cuidado Adulto Mayor/Pants y Toallitas Humedas
+Perfumer\u00EDa - Salud/Cuidado Adulto Mayor/Apositos
+Perfumer\u00EDa - Salud/Belleza/Coloraci\u00F3n
+Perfumer\u00EDa - Salud/Belleza/Fijadores
+Perfumer\u00EDa - Salud/Belleza/Cosm\u00E9ticos y Cosmetiqueros
+Perfumer\u00EDa - Salud/Belleza/Accesorios y complementos
+Perfumer\u00EDa - Salud/Salud/Algod\u00F3n y Botiqu\u00EDn
+Perfumer\u00EDa - Salud/Salud/Vitaminas y Suplementos
+Perfumer\u00EDa - Salud/Salud/Preservativos y Gel Lubricante
+Perfumer\u00EDa - Salud/Salud/Anteojos de Lectura
+Congelados/Verduras y Frutas Congeladas/Verduras Congeladas
+Congelados/Verduras y Frutas Congeladas/Verduras Congeladas
+Congelados/Verduras y Frutas Congeladas/Papas Congeladas
+Congelados/Verduras y Frutas Congeladas/Frutas Congeladas
+Congelados/Verduras y Frutas Congeladas/Pulpas de Fruta y Smoothies
+Hogar/Electrohogar/Electrodom\u00E9sticos
+Hogar/Electrohogar/Cuidado Personal
+Hogar/Electrohogar/Cocinas
+Hogar/Electrohogar/Lavado
+Hogar/Electrohogar/Refrigeraci\u00F3n
+Hogar/Electrohogar/Calefacci\u00F3n
+Hogar/Menaje Cocina/Ollas, Sartenes y Bater\u00EDas de Cocina
+Hogar/Menaje Cocina/Fuentes, Asaderas y Moldes
+Hogar/Menaje Cocina/Teteras y Lecheros
+Hogar/Menaje Cocina/Herm\u00E9ticos y Frascos
+Hogar/Menaje Cocina/Utensilios y Accesorios de Cocina
+Hogar/Menaje Cocina/Cuchillos y Tablas
+Hogar/Menaje Cocina/Textil Cocina
+Hogar/Menaje Comedor/Juegos de Loza
+Hogar/Menaje Comedor/Vasos, Copas y Jarros
+Hogar/Menaje Comedor/Tazones y Mugs
+Hogar/Menaje Comedor/Termos y Botellas
+Hogar/Menaje Comedor/Cuchiller\u00EDa
+Hogar/Menaje Comedor/Manteles e Individuales
+Hogar/Menaje Comedor/Accesorios Mesa
+Hogar/Muebles y Decoraci\u00F3n/Velas
+Hogar/Muebles y Decoraci\u00F3n/Marcos para Fotos
+Hogar/Muebles y Decoraci\u00F3n/Decoraci\u00F3n
+Hogar/Muebles y Decoraci\u00F3n/Muebles
+Hogar/Organizaci\u00F3n/Cajas Organizadoras
+Hogar/Organizaci\u00F3n/Colgadores
+Hogar/Organizaci\u00F3n/Basureros y Papeleros
+Hogar/Organizaci\u00F3n/Tendederos, Tablas para Planchar y Accesorios de Planchado
+Hogar/Organizaci\u00F3n/Cestos, Canastos y Accesorios de lavado
+Hogar/Dormitorio/Camas y Colchones
+Hogar/Dormitorio/S\u00E1banas
+Hogar/Dormitorio/Quilts y Cubrecamas
+Hogar/Dormitorio/Plumones
+Hogar/Dormitorio/Frazadas y Mantas
+Hogar/Dormitorio/Almohadas y Cojines de Cama
+Hogar/Ba\u00F1o/Toallas y Pisos de Ba\u00F1o
+Hogar/Ba\u00F1o/Accesorios de Ba\u00F1o
+Hogar/Ba\u00F1o/Basureros y Papeleros
+Hogar/Ferreter\u00EDa/Cajas de Herramientas y Organizadores
+Hogar/Ferreter\u00EDa/Herramientas Manuales
+Hogar/Ferreter\u00EDa/Herramientas El\u00E9ctricas
+Hogar/Ferreter\u00EDa/Iluminaci\u00F3n y Enchufes
+Hogar/Ferreter\u00EDa/Adhesivos y Sujetadores
+Hogar/Ferreter\u00EDa/Accesorios Ba\u00F1o
+Hogar/Ferreter\u00EDa/Pinturas y Accesorios
+Hogar/Ferreter\u00EDa/Velas y Linternas
+Hogar/Ferreter\u00EDa/Pilas
+Hogar/Autom\u00F3vil/Neum\u00E1ticos y Llantas
+Hogar/Autom\u00F3vil/Limpieza y Lubricantes
+Hogar/Autom\u00F3vil/Accesorios Interior
+Hogar/Autom\u00F3vil/Accesorios Exterior
+Hogar/Autom\u00F3vil/Herramientas y Seguridad
+Congelados/Verduras y Frutas Congeladas/Verduras Congeladas
+Congelados/Verduras y Frutas Congeladas/Verduras Congeladas
+Congelados/Verduras y Frutas Congeladas/Papas Congeladas
+Congelados/Verduras y Frutas Congeladas/Frutas Congeladas
+Congelados/Verduras y Frutas Congeladas/Pulpas de Fruta y Smoothies
+Entretenimiento/Tecnolog\u00EDa/Televisi\u00F3n
+Entretenimiento/Tecnolog\u00EDa/Telefon\u00EDa
+Entretenimiento/Tecnolog\u00EDa/Computaci\u00F3n
+Entretenimiento/Tecnolog\u00EDa/Audio
+Entretenimiento/Tecnolog\u00EDa/Videojuegos
+Entretenimiento/Tecnolog\u00EDa/Accesorios
+Entretenimiento/Tecnolog\u00EDa/Smart Home
+Entretenimiento/Aire Libre/Deportes
+Entretenimiento/Aire Libre/Piscinas y Juegos de Exterior
+Entretenimiento/Aire Libre/Camping y Outdoor
+Entretenimiento/Parrillas y Jardin/Parrillas
+Entretenimiento/Parrillas y Jardin/Accesorios Parrillas
+Entretenimiento/Parrillas y Jardin/Carb\u00F3n, Pellet y Le\u00F1a
+Entretenimiento/Parrillas y Jardin/Iluminaci\u00F3n Exterior
+Entretenimiento/Parrillas y Jardin/Riego y Cuidado de Jardin
+Entretenimiento/Parrillas y Jardin/Maceteros, Plantas y Huertas
+Entretenimiento/Jugueter\u00EDa/Juegos de Mesa y Educativos
+Entretenimiento/Jugueter\u00EDa/Figuras de Acci\u00F3n
+Entretenimiento/Jugueter\u00EDa/Manualidades
+Entretenimiento/Jugueter\u00EDa/Veh\u00EDculos
+Entretenimiento/Jugueter\u00EDa/Juegos de Rol y Disfraces
+Entretenimiento/Jugueter\u00EDa/Lanzadores
+Entretenimiento/Jugueter\u00EDa/Mu\u00F1ecas y Accesorios
+Entretenimiento/Jugueter\u00EDa/Pre Escolar
+Entretenimiento/Jugueter\u00EDa/Juegos de Exterior
+Entretenimiento/Jugueter\u00EDa/Construcci\u00F3n y Bloques
+Entretenimiento/Jugueter\u00EDa/Juguetes Beb\u00E9

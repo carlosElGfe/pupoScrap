@@ -1,0 +1,91 @@
+Desayuno/Cereales/Avenas
+Carnes y Pescados/Vacuno
+Carnes y Pescados/Cerdo
+Carnes y Pescados/Pavo
+Carnes y Pescados/Pollo
+Carnes y Pescados/Cordero
+Carnes y Pescados/Pescados y Mariscos
+Categorías Disponibles/Parra Parrilla
+Congelados/Hamburguesas y Churrascos
+Congelados/Verduras y Frutas Congeladas
+Congelados/Helados
+Congelados/Comidas Congeladas
+Frutas y Verduras/Frutas
+Frutas y Verduras/Verduras
+Frutas y Verduras/Frutos Secos
+Congelados/Verduras y Frutas Congeladas
+Frutas y Verduras/Ensaladas y listos para cocinar
+Congelados/Hamburguesas y Churrascos/Hamburguesas
+Congelados/Hamburguesas y Churrascos/Churrascos y Lomitos
+Congelados/Hamburguesas y Churrascos/Apanados
+Congelados/Hamburguesas y Churrascos/Vegetarianos
+Frescos y Lácteos/Fiambres y Embutidos/Salchichas
+Frescos y Lácteos/Fiambres y Embutidos/Parrilleros
+Frescos y Lácteos/Quesos
+Frescos y Lácteos/Leche
+Frescos y Lácteos/Cremas
+Frescos y Lácteos/Yoghurt
+Frescos y Lácteos/Bebidas Vegetales
+Frescos y Lácteos/Postres Refrigerados
+Frescos y Lácteos/Masas Refrigeradas
+Frescos y Lácteos/Platos Preparados
+Frescos y Lácteos/Huevos y Mantequillas
+Platos Preparados/Cóctel
+Platos Preparados/Platos Listos Individuales
+Platos Preparados/Postres
+Platos Preparados/Platos Listos Familiar
+Panadería y Pastelería/Panadería
+Panadería y Pastelería/Pastelería
+Panadería y Pastelería/Repostería
+Desayuno/Café Té y Hierbas
+Desayuno/Galletas y Colaciones Dulces
+Desayuno/Chocolates y Candy
+Desayuno/Postres para Preparar
+Desayuno/Dulces Mermeladas y Manjar
+Desayuno/Cereales
+Colaciones/Fruta colación
+Colaciones/Leches Colación
+Colaciones/Barrritas y cereales
+Colaciones/Jugos Colación
+Frescos y Lácteos/Yoghurt
+Despensa/Pastas y Salsas
+Despensa/Harinas y Polvos
+Despensa/Arroz y Legumbres
+Despensa/Aceites y Aderezos
+Despensa/Salsas
+Despensa/Cóctel y Snack
+Despensa/Conservas
+Despensa/Comida %C3%89tnica
+Despensa/Alimentos Instantáneos
+Bebidas y Licores/Vinos y Espumantes
+Bebidas y Licores/Deme 3 por favor
+Bebidas y Licores/Destilados
+Bebidas y Licores/Coctel y Licores
+Bebidas y Licores/Jugos
+Bebidas y Licores/Aguas
+Bebidas y Licores/Hielo
+Bebidas y Licores/Bebidas
+Bebidas y Licores/Cervezas
+Mascotas/Perro
+Mascotas/Gato
+Mascotas/Otras Mascotas
+Mundo Bebé y Juguetería/Alimentación y Lactancia
+Mundo Bebé y Juguetería/Pañales y Muda
+Mundo Bebé y Juguetería/Ropa de bebé
+Mundo Bebé y Juguetería/Viajes y Seguridad del Bebé
+Mundo Bebé y Juguetería/Juguetes y Actividades
+Mundo Bebé y Juguetería/Perfumería e Higiene
+Limpieza Aseo/Detergentes
+Limpieza Aseo/Pisos y Muebles
+Limpieza Aseo/Accesorios Aseo
+Limpieza Aseo/Aerosoles
+Limpieza Aseo/Papeles
+Limpieza Aseo/Desinfección
+Limpieza Aseo/Baño y Cocina
+Frescos y Lácteos/Fiambres y Embutidos/Jamón de Cerdo
+Frescos y Lácteos/Fiambres y Embutidos/Mortadela y Otros
+Frescos y Lácteos/Fiambres y Embutidos/Jamón Serrano y Otros
+Frescos y Lácteos/Fiambres y Embutidos/Salame y Tocino
+Frescos y Lácteos/Fiambres y Embutidos/Patés
+Frescos y Lácteos/Fiambres y Embutidos/Salchichas
+Frescos y Lácteos/Fiambres y Embutidos/Parrilleros
